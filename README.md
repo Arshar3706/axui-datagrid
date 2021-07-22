@@ -22,7 +22,7 @@ npm start
 
 # Features 2
 
-### Large Data
+### Large Data 3
 
 ![axui-datagrid example LargeData](https://cdn.rawgit.com/jsdevkr/datagrid/0d332b6c/src/assets/datagrid-feature-01.jpg)
 
